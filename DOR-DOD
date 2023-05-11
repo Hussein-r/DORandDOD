@@ -1,0 +1,23 @@
+DoD = Definition of Done
+
+The DoD is usually a short document in the form of a checklist, that defines when a product backlog item is considered “done”
+
+A typical DoD might look like this example:
+Automated tests are written and all tests are green
+Code is refactored and reviewed
+Code is integrated with master branch
+Deployed to staging environment
+Translated into English and German
+
+DoR = Definition of Ready
+
+The DoR is the little cousin of the DoD. It is a checklist of what needs to be done to a product backlog item before the team can start implementing it in the next sprint. 
+
+A typical DoR might look like this example:
+
+PO and Dev Team need to have talked about the story at least once
+Story must have clear business value
+Effort needs to be estimated
+Story must be broken down enough to fit a single sprint
+Story needs at least one acceptance criterium
+
